@@ -205,7 +205,8 @@ class EvoPlantMode(WaterHeaterMode):
 
     MANUAL = 1
     PROGRAM = 5
-
+    BOOST = 9
+    
 
 @unique
 class VelisPlantMode(WaterHeaterMode):
