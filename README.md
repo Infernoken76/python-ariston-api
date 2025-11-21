@@ -1,4 +1,8 @@
 [![CodeQL](https://github.com/fustom/python-ariston-api/actions/workflows/codeql.yml/badge.svg)](https://github.com/fustom/python-ariston-api/actions/workflows/codeql.yml) [![Upload Python Package](https://github.com/fustom/python-ariston-api/actions/workflows/python-publish.yml/badge.svg)](https://github.com/fustom/python-ariston-api/actions/workflows/python-publish.yml)
+# Added full support for Ariston Andris Elite WiFi 30L Hot Water Boiler
+This repository is referenced by https://github.com/Infernoken76/ariston-remotethermo-home-assistant-v3
+Adds support for 'BOOST' mode on the Ariston Andris Elite WiFi 30L Hot Water Boiler
+
 
 # python-ariston-api
 A Python module for controlling Ariston devices with cloud polling.
